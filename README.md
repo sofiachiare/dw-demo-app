@@ -1,4 +1,4 @@
-https://travis-ci.com/sofiachiare/dw-demo-app.svg?branch=master&status=passed
+![logo]([https://travis-ci.com/sofiachiare/dw-demo-app.svg?branch=master&status=passed) 
 
 # DropWizard Demo Application
 
