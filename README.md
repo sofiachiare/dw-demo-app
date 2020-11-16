@@ -1,3 +1,5 @@
+https://travis-ci.com/sofiachiare/dw-demo-app.svg?branch=master&status=passed
+
 # DropWizard Demo Application
 
 Welcome to the DropWizard Demo Application !
